@@ -1,11 +1,3 @@
-name: snowflake_smoothie_app
-channels:
-  - conda-forge
-dependencies:
-  - python=3.10
-  - streamlit
-  - pandas
-  - numpy
-  - snowflake-snowpark-python
-  - snowflake-connector-python
-  - pip
+# requirements.txt
+snowflake-snowpark-python
+streamlit
